@@ -1,7 +1,6 @@
 # MERN Login and Register Application
 
 
-> Short project description here.
 
 ---
 
