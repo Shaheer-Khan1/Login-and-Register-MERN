@@ -3,6 +3,8 @@ MERN Login and Register Application
 
   This project is a full-stack application built using the MERN stack (MongoDB, Express, React, Node.js). It includes authentication features with local (username/password) and Google OAuth 2.0 login options.
 
+
+
 Features
 
 
@@ -14,6 +16,8 @@ Features
 
 
 
+
+
 Technologies Used
 
 
@@ -22,3 +26,5 @@ Technologies Used
   Backend: Node.js, Express.js
   Database: MongoDB Atlas
   Authentication: bcrypt for password hashing, Google Cloud API for OAuth 2.0
+
+
